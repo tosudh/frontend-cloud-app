@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-cloud-app/static/css/main.1d2da49d.css",
+    "main.js": "/frontend-cloud-app/static/js/main.e69e4fd7.js",
+    "static/media/Flashlight-amico.svg": "/frontend-cloud-app/static/media/Flashlight-amico.1e8253f7886d3f86e3102d7e63941a33.svg",
+    "static/media/Forgot password-bro.svg": "/frontend-cloud-app/static/media/Forgot password-bro.324f1d315837f2701f235f39830fa07e.svg",
+    "static/media/Memory storage-bro.svg": "/frontend-cloud-app/static/media/Memory storage-bro.b72209fb7fb6c8eb064a0b08d639da22.svg",
+    "static/media/Download-bro.svg": "/frontend-cloud-app/static/media/Download-bro.bab89c2ebc69d2ece6851812136ec1c7.svg",
+    "static/media/My password-pana.svg": "/frontend-cloud-app/static/media/My password-pana.b808560bc7b5966e4545598afd0d9cae.svg",
+    "static/media/Digital personal files-bro.svg": "/frontend-cloud-app/static/media/Digital personal files-bro.816dcc08912428fab6936adb5fd8f853.svg",
+    "static/media/Key-pana.svg": "/frontend-cloud-app/static/media/Key-pana.697ee0d406713040da63470905fe6476.svg",
+    "static/media/Mobile login-pana.svg": "/frontend-cloud-app/static/media/Mobile login-pana.1c3d195e01717b265a615c182d490e4b.svg",
+    "static/media/Add files-bro.svg": "/frontend-cloud-app/static/media/Add files-bro.07dd7ce80c000f2b837aa834a74d41d4.svg",
+    "static/media/Mobile login-rafiki (1).svg": "/frontend-cloud-app/static/media/Mobile login-rafiki (1).cb6b02498b0225dd789577b4985d0f3d.svg",
+    "index.html": "/frontend-cloud-app/index.html",
+    "main.1d2da49d.css.map": "/frontend-cloud-app/static/css/main.1d2da49d.css.map",
+    "main.e69e4fd7.js.map": "/frontend-cloud-app/static/js/main.e69e4fd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2da49d.css",
+    "static/js/main.e69e4fd7.js"
+  ]
+}
