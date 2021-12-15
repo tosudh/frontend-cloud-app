@@ -19,7 +19,6 @@ function App() {
         <Route path="forgot" element={<Forgot />} />
         <Route path="verify-otp" element={<Otp />} />
         <Route path="set-password" element={<ChangePassword />} />
-        <Route path="/*" element={<h1>All Routes</h1>} />
       </Routes>
     </>
   );
