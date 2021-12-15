@@ -3,8 +3,10 @@ import MenuIcon from '@mui/icons-material/Menu';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import StorageIcon from '@mui/icons-material/Storage';
 import { IconButton } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
 
 function Header() {
+    let navigate = useNavigate();
     return (
         <>
             <header>
@@ -18,7 +20,9 @@ function Header() {
                 <input placeholder="Search file" autocomplete="off"/>
                 </div>
                 <IconButton>
-                <AccountCircleIcon id="user-icon"/>
+                <AccountCircleIcon id="user-icon" onClick={()=>{
+                    navigate('/login')
+                }}/>
                 </IconButton>
             </header>
         </>
