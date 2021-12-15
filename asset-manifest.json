@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-cloud-app/static/css/main.1d2da49d.css",
-    "main.js": "/frontend-cloud-app/static/js/main.e69e4fd7.js",
+    "main.js": "/frontend-cloud-app/static/js/main.0fb9f646.js",
     "static/media/Flashlight-amico.svg": "/frontend-cloud-app/static/media/Flashlight-amico.1e8253f7886d3f86e3102d7e63941a33.svg",
     "static/media/Forgot password-bro.svg": "/frontend-cloud-app/static/media/Forgot password-bro.324f1d315837f2701f235f39830fa07e.svg",
     "static/media/Memory storage-bro.svg": "/frontend-cloud-app/static/media/Memory storage-bro.b72209fb7fb6c8eb064a0b08d639da22.svg",
@@ -14,10 +14,10 @@
     "static/media/Mobile login-rafiki (1).svg": "/frontend-cloud-app/static/media/Mobile login-rafiki (1).cb6b02498b0225dd789577b4985d0f3d.svg",
     "index.html": "/frontend-cloud-app/index.html",
     "main.1d2da49d.css.map": "/frontend-cloud-app/static/css/main.1d2da49d.css.map",
-    "main.e69e4fd7.js.map": "/frontend-cloud-app/static/js/main.e69e4fd7.js.map"
+    "main.0fb9f646.js.map": "/frontend-cloud-app/static/js/main.0fb9f646.js.map"
   },
   "entrypoints": [
     "static/css/main.1d2da49d.css",
-    "static/js/main.e69e4fd7.js"
+    "static/js/main.0fb9f646.js"
   ]
 }
