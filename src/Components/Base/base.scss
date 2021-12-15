@@ -1,0 +1,137 @@
+
+#baseRoute{
+    @import url('https://fonts.googleapis.com/css2?family=Acme&family=IM+Fell+English+SC&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+    :root{
+        --color-green: #92e3a9;
+    }
+
+    header{
+        background-color: #1a5b7f;
+        color:#fff;
+        padding:0.5em 2em;
+    }
+    
+    #logo{
+        display:inline-flex;
+        align-items: center;
+        text-decoration: none;
+    }
+    #logo-img{
+        width: 40px;
+    }
+    #logo-txt{
+        color: #fff;
+        font-size: 2em;
+        letter-spacing:2px;
+        font-family: 'IM Fell English SC', serif;
+    }
+    
+    /* Section Intro */
+    #sec-intro{
+        display: flex;
+        align-items: center;
+    }
+    .sec-img {
+        width: 50%;
+    }
+    .sec-img img{
+        width:80%;
+    }
+    
+    
+}
+
+
+
+
+
+section{
+    padding:3rem 8rem;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.sec-info{
+    width: 50%;
+}
+.sec-heading{
+    font-size:3rem;
+    color: #1a5b7f;
+    letter-spacing: 5px;
+    font-family: 'Acme', sans-serif;
+    
+}
+.sec-text{
+    margin-top:2em;
+    font-family: 'Spartan', sans-serif;
+    font-size:1.5rem;
+    color: #7992a0;
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    padding:1rem;
+    background-color: #1a5b7f;
+    gap:2em;
+}
+footer a{
+    font-size:1.2rem;
+    color: #fff;
+    text-decoration: none;
+}
+#join-btn{
+
+    margin-top: 2rem;
+    /* text-align: center; */
+}
+#join-btn a{
+    text-decoration: none;
+    color:#fff;
+    font-size:1.3rem;
+    background-color:#1a5b7f;
+    padding:15px 30px ;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+
+
+@media screen and (max-width:600px){
+    #baseRoute {
+        font-size:50%;
+    }
+    section{
+        flex-direction: column;
+    }
+    .sec-info{
+        width: 100%;
+    }
+    .sec-img{
+        width: 100%;
+        order: -1;
+    }
+    
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #1a5b7f;
+    border-radius: 15px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #1a5b7f;
+  }
